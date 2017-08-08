@@ -1,3 +1,5 @@
+*This fork is just dagre-d3v4 with fixed `require`-calls to play nicely along with webpack*  
+
 # dagre-d3 - A D3-based renderer for dagre
 
 [Dagre](https://github.com/cpettitt/dagre) is a JavaScript library that makes it easy to lay out
